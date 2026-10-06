@@ -20,6 +20,7 @@ Every expert was once a beginner.
 | [0032-longest-valid-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,16 +38,19 @@ Every expert was once a beginner.
 | [0032-longest-valid-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
