@@ -3,13 +3,13 @@ Hi!! My name is Balagowtham.
 
 I started this leetcode documentary on 1st October 2026.
 
-The aim to be consistet throughout 90 days (Winter ARC).
+The aim to be consistent throughout 90 days (Winter ARC).
 
 I believe consistency is the key to success.
 
-Every expert was once a beninner.
-
-      "Happy coding"
+Every expert was once a beginner.
+ 
+ Happy coding
       
 <!---LeetCode Topics Start-->
 # LeetCode Topics
