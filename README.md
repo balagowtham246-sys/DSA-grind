@@ -60,12 +60,14 @@ Every expert was once a beginner.
 | [0678-valid-parenthesis-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,12 +77,18 @@ Every expert was once a beginner.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0035-search-insert-position/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
