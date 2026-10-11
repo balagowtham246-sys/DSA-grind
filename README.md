@@ -68,6 +68,7 @@ Every expert was once a beginner.
 | [0035-search-insert-position](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +92,8 @@ Every expert was once a beginner.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
