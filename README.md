@@ -69,6 +69,7 @@ Every expert was once a beginner.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0035-search-insert-position/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -79,6 +80,7 @@ Every expert was once a beginner.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
