@@ -62,6 +62,7 @@ Every expert was once a beginner.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Every expert was once a beginner.
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@ Every expert was once a beginner.
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
