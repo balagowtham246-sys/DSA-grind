@@ -84,6 +84,7 @@ Every expert was once a beginner.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
