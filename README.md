@@ -33,6 +33,7 @@ Every expert was once a beginner.
 | [0032-longest-valid-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balagowtham246-sys/DSA-grind/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Every expert was once a beginner.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
@@ -136,6 +138,7 @@ Every expert was once a beginner.
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +197,5 @@ Every expert was once a beginner.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
