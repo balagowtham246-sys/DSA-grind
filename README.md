@@ -76,6 +76,7 @@ Every expert was once a beginner.
 | [0035-search-insert-position](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0169-majority-element/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balagowtham246-sys/DSA-grind/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -101,6 +102,7 @@ Every expert was once a beginner.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0169-majority-element/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -129,6 +131,7 @@ Every expert was once a beginner.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0169-majority-element/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -159,6 +162,7 @@ Every expert was once a beginner.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0169-majority-element/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balagowtham246-sys/DSA-grind/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -198,4 +202,12 @@ Every expert was once a beginner.
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
