@@ -35,6 +35,7 @@ Every expert was once a beginner.
 | [0032-longest-valid-parentheses](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/balagowtham246-sys/DSA-grind/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balagowtham246-sys/DSA-grind/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ Every expert was once a beginner.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -211,6 +213,7 @@ Every expert was once a beginner.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
