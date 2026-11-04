@@ -96,6 +96,7 @@ Every expert was once a beginner.
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -165,6 +166,7 @@ Every expert was once a beginner.
 | [2409-count-days-spent-together](https://github.com/balagowtham246-sys/DSA-grind/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/balagowtham246-sys/DSA-grind/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
